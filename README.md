@@ -5,4 +5,4 @@ Master's thesis
 **"Investigating transcriptional  of divergent CTCF orthologs using RNA-seqencing"**
 
 
-R scripts to analyze RNA-seqencing data after preprocessing using the Pigx pipeline
+R scripts to analyze RNA-seqencing data after preprocessing using the Pigx pipeline.
